@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm SRUJAN TJ</h1>
 <h3 align="center">A Passionate Developer with learning the new things day by day </h3>
+<h3>GitHub Stats:
+</h3>
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SRUJANTJ)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 <h3 align="center">🌐 Connect with Me</h3>
