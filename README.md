@@ -1,22 +1,19 @@
 <h1 align="center">Hi 👋, I'm SRUJAN TJ</h1>
 <h3 align="center">A Passionate Developer with learning the new things day by day </h3>
-<!-- <h3>GitHub Stats:
-</h3>
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SRUJANTJ)](https://github.com/anuraghazra/github-readme-stats) -->
 ---
 
 <h3 align="center">🌐 Connect with Me</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/srujantj" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
+<p align=""text-align: center; ">
+
 <!--   <a href="mailto:your.email@example.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a> -->
   <a href="https://github.com/SRUJANTJ" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+    <a href="https://linkedin.com/in/srujantj" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
 
@@ -28,8 +25,9 @@
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML5">
 </a><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS3">
-</a><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS3">
+</a>
+   <a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
 </a>
    <a target="_blank" rel="noopener noreferrer nofollow"
       href="https://camo.githubusercontent.com/5c1d4693adb60b2b9c3e64e62865a31d280884c2d4e1333708fa20f074100c47/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742d2532333332333333302e7376673f7374796c653d666c6174266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145"><img
